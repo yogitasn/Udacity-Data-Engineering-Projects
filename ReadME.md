@@ -1,4 +1,4 @@
-# Springboard Data Engineering Projects
+# Udacity Data Engineering Projects
 
 This repository contains my solutions to the course "Udacity Data Engineering Projects" for summer 2019
 
@@ -7,7 +7,7 @@ This repository contains my solutions to the course "Udacity Data Engineering Pr
 
 Project Folder | Description | Done
 ------------ | ------------- | -------------
-**[Project 1a - PostgreSQL](Project%201a%20-%20PostgreSQL)**  | Building a star schema in PostgreSQL and inserting data via Python| :heavy_check_mark:
+**[Project 1a - PostgresSQL](Project%201a%20-%20PostgresSQL)**  | Building a star schema in PostgreSQL and inserting data via Python| :heavy_check_mark:
 **[Project 1b - Cassandra](Project%201b%20-%20Cassandra)**  | Building a star schema in Cassandra and inserting data via Python | :heavy_check_mark:
 **[Project 2 - DW AWS Redshift](Project%202%20-%20DW%20AWS%20Redshift)** | Building a star schema in AWS Redshift and inserting data from AWS S3 via Python | :heavy_check_mark:
 **[Project 3 - Spark](Project%203%20-%20Spark)**| Reading and transforming data from AWS S3 with Spark to parse them in partitioned parquet files | :heavy_check_mark:
